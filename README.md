@@ -276,8 +276,6 @@ def delete_task(id):
 
 ---
 
-Would you like this included in your README as a “Task Management” section? I can generate an updated README file for you if you want!
-
 ## Contributing
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
